@@ -1,0 +1,16 @@
+Tatenda Makura Checked Balance: 1000.0
+Tatenda Makura deposited: 500.0 | Balance: 1500.0
+Tatenda Makura Checked Balance: 1500.0
+Tatenda Makura withdran: 200.0 | Balance: 1300.0
+Tatenda Makura Checked Balance: 1300.0
+Tatenda Makura Failed Withdrawal Attempt: 2000.0 | Balance: 1300.0
+Tatenda Makura failed deposit attempt: -50.0
+Tatenda Makura Checked Balance: 1300.0
+Tatenda Makura Checked Balance: 1000.0
+Tatenda Makura deposited: 500.0 | Balance: 1500.0
+Tatenda Makura Checked Balance: 1500.0
+Tatenda Makura withdran: 200.0 | Balance: 1300.0
+Tatenda Makura Checked Balance: 1300.0
+Tatenda Makura Failed Withdrawal Attempt: 2000.0 | Balance: 1300.0
+Tatenda Makura failed deposit attempt: 0.0
+Tatenda Makura Checked Balance: 1300.0
